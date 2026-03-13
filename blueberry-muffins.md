@@ -3,16 +3,16 @@ layout: layout.liquid
 title: Blueberry Muffins
 ---
 
+<div class="recipe-layout">
 <div class="recipe-title">
 
 # Blueberry Muffins
-Soft and fluffy muffins packed with fresh blueberries.
+Soft, fluffy muffins filled with fresh juicy blueberries and a lightly golden top. These easy homemade muffins are perfect for breakfast, brunch, or a quick sweet treat.
 
 </div>
-
 <img class="recipe-image" src="/images/muffins.png" alt="blueberry muffins">
 
-<div class="recipe-content">
+<div class="ingredients">
 
 ## Ingredients
 - 1 ½ cups all-purpose flour
@@ -24,6 +24,9 @@ Soft and fluffy muffins packed with fresh blueberries.
 - ⅓ cup milk
 - 1 tsp vanilla extract
 - 1 cup fresh or frozen blueberries
+</div>
+
+<div class="instructions">
 
 ## Instructions
 1. Preheat oven to 190°C (375°F) and line a muffin tin with paper liners.
@@ -34,5 +37,7 @@ Soft and fluffy muffins packed with fresh blueberries.
 6. Divide batter evenly into muffin cups, filling about ¾ full.
 7. Bake 18–22 minutes until golden and a toothpick comes out clean.
 8. Let cool for about 5 minutes, then enjoy!
+
+</div>
 
 </div>
