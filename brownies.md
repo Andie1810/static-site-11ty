@@ -12,6 +12,8 @@ Rich and fudgy chocolate brownies with a deep cocoa flavour and a soft, chewy ce
 </div>
 <img class="recipe-image" src="/images/brownies.png" alt="chocolate brownies">
 
+<div class="divider"></div>
+
 <div class="ingredients">
 
 ## Ingredients

@@ -12,6 +12,8 @@ Soft, fluffy muffins filled with fresh juicy blueberries and a lightly golden to
 </div>
 <img class="recipe-image" src="/images/muffins.png" alt="blueberry muffins">
 
+<div class="divider"></div>
+
 <div class="ingredients">
 
 ## Ingredients
